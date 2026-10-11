@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow POS - Restaurant POS for Android",
+  "description": "Production-ready offline-first Android Restaurant POS with KDS, Table & Order Management, NPR / eSewa / Khalti billing, and inventory tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
